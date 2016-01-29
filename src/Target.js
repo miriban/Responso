@@ -1,4 +1,7 @@
 /*
+	Comment added for test 
+*/
+/*
 	Target.js is a javasctipt file for making Responsive media File 
 	by determining the type of device this style is designed for! 
 */
